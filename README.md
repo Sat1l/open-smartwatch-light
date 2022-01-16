@@ -5,6 +5,7 @@ Repo for kicad schematic, board and gerber files. This project is in development
 # TODO
 - [X] add usb type-c
 - [X] make esp stick out less from the edge of pcb
+- [ ] make esp DONT stick out from the edge of pcb
 - [ ] make files for SMT assembly
 - [ ] add logos back to pcb
 - [ ] add new BOM
