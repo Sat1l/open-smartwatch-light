@@ -1,4 +1,4 @@
-20520850642921349
+20522522145488371
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87457,6 +87457,13 @@ SSOP 0.5
 0
 10
 10
+open-Smartwatch
+PinHeader_1x04_P1.00mm_Vertical
+
+
+0
+4
+4
 open-Smartwatch
 PinHeader_1x04_P2.54mm_test
 Through hole straight pin header, 1x04, 2.54mm pitch, single row

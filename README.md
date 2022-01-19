@@ -5,14 +5,20 @@ Repo for kicad schematic, board and gerber files. This project is in development
 # TODO
 - [X] add usb type-c
 - [X] make esp stick out less from the edge of pcb
-- [ ] make esp DONT stick out from the edge of pcb
+- [X] make esp DONT stick out from the edge of pcb
+- [ ] make free gpio & I2C pins accessible on the back of pcb (only thing left to do is to fix i2c pins courtyard)
+- [ ] cut edge of the pcb where there is a dislay ribbon (to pcb completely round)
 - [ ] make files for SMT assembly
 - [ ] add logos back to pcb
 - [ ] add new BOM
-- [ ] add used type-c to footprint library in repo
+- [ ] add custom footprints to footprint library in repo
 - [ ] automate generating pcb previews
 - [ ] design new 3d case for pcb with sunk-in esp
 
 ## Tools
 
 To view/modify the files from this repository, install KiCAD from: [https://kicad.org](https://kicad.org)
+
+## [My Telegram channel](https://t.me/sat1lMakes)
+
+
