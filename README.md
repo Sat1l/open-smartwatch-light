@@ -6,8 +6,8 @@ Repo for kicad schematic, board and gerber files. This project is in development
 - [X] add usb type-c
 - [X] make esp stick out less from the edge of pcb
 - [X] make esp DONT stick out from the edge of pcb
-- [ ] make free gpio & I2C pins accessible on the back of pcb (only thing left to do is to fix i2c pins courtyard)
-- [ ] cut edge of the pcb where there is a dislay ribbon (to pcb completely round)
+- [X] make free gpio & I2C pins accessible on the back of pcb
+- [X] cut edge of the pcb where there is a dislay ribbon (to pcb completely round)
 - [ ] make files for SMT assembly
 - [ ] add logos back to pcb
 - [ ] add new BOM
