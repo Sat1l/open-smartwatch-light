@@ -411,7 +411,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "../osw-light.dsn",
-      "step": "",
+      "step": "osw-light.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

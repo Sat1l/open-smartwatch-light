@@ -1,4 +1,4 @@
-20522522145488371
+20529094918621843
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87458,6 +87458,13 @@ SSOP 0.5
 10
 10
 open-Smartwatch
+PinHeader_1x02_P1.0mm_Vertical
+
+
+0
+2
+2
+open-Smartwatch
 PinHeader_1x04_P1.00mm_Vertical
 
 
@@ -87598,12 +87605,33 @@ GCT_USB4125-GF-A_REVA2
 10
 10
 sat1l
+HRO_TYPE-C-31-M-12
+
+
+0
+16
+16
+sat1l
+PinHeader_1*02_P1.0mm_Vertical
+
+
+0
+0
+0
+sat1l
 hearts
 
 
 0
 0
 0
+sat1l
+pj320-d
+
+
+0
+4
+4
 sat1l
 sat1l
 
