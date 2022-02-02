@@ -4729,7 +4729,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 194.31 149.86 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005fa4ba83)
     (property "Reference" "J1" (id 0) (at 193.04 147.32 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5399,7 +5399,7 @@
   )
 
   (symbol (lib_id "open-Smartwatch:Conn_01x04") (at 231.14 147.955 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid ad419be9-376d-4d2f-82c0-ff0f07356768)
     (property "Reference" "J5" (id 0) (at 235.585 147.9549 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5436,7 +5436,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 231.14 124.46 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid f42ffa4a-3162-4d30-992d-a7e13dd34485)
     (property "Reference" "J3" (id 0) (at 235.585 124.4599 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5455,7 +5455,7 @@
   )
 
   (symbol (lib_id "open-Smartwatch:Conn_01x04") (at 231.14 134.62 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid f930a182-b2d5-4c81-81c9-905795e16964)
     (property "Reference" "J4" (id 0) (at 235.585 134.6199 0)
       (effects (font (size 1.27 1.27)) (justify left))
