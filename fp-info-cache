@@ -1,4 +1,4 @@
-20529098032558846
+20530743606021330
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87527,6 +87527,13 @@ USBmicro-B
 0
 8
 5
+open-Smartwatch
+batteryPads
+
+
+0
+2
+2
 open-Smartwatch
 button_side_smd
 

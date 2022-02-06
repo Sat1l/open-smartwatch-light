@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 5.0,
-          "width": 5.0
+          "drill": 0.5,
+          "height": 0.85,
+          "width": 0.85
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -134,10 +134,6 @@
         {
           "diameter": 0.0,
           "drill": 0.0
-        },
-        {
-          "diameter": 0.6858,
-          "drill": 0.3302
         }
       ],
       "zones_allow_external_fillets": false,
@@ -391,7 +387,12 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "powwah",
-        "nets": [],
+        "nets": [
+          "+3V3",
+          "/VBAT",
+          "VBUS",
+          "VCC"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
