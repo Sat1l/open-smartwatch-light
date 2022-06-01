@@ -4868,7 +4868,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060cab8dd)
     (property "Reference" "U10" (id 0) (at 146.05 155.829 0))
-    (property "Value" "XC6209" (id 1) (at 146.05 158.1404 0))
+    (property "Value" "XC6209F332MR-G" (id 1) (at 146.05 158.1404 0))
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5" (id 2) (at 146.05 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5468,7 +5468,7 @@
       (reference "U9") (unit 1) (value "TPS2115A") (footprint "open-Smartwatch:TSSOP-8_4.4x3mm_P0.65mm")
     )
     (path "/00000000-0000-0000-0000-000060cab8dd"
-      (reference "U10") (unit 1) (value "XC6209") (footprint "Package_TO_SOT_SMD:SOT-23-5")
+      (reference "U10") (unit 1) (value "XC6209F332MR-G") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/00000000-0000-0000-0000-00005f5769ac"
       (reference "U11") (unit 1) (value "MCP73831T-2ACI_OT") (footprint "open-Smartwatch:SOT-23-5")

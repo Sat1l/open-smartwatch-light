@@ -1,4 +1,4 @@
-20530743606021330
+20548845061594078
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87616,8 +87616,8 @@ HRO_TYPE-C-31-M-12
 
 
 0
-16
-16
+20
+17
 sat1l
 PinHeader_1*02_P1.0mm_Vertical
 
@@ -87626,7 +87626,63 @@ PinHeader_1*02_P1.0mm_Vertical
 0
 0
 sat1l
+PinSocket_1x01_P2.54mm_Vertical
+
+
+0
+1
+1
+sat1l
+PinSocket_1x02_P2.54mm_Vertical
+
+
+0
+2
+2
+sat1l
+PinSocket_1x03_P2.54mm_Vertical
+
+
+0
+3
+3
+sat1l
+PinSocket_1x04_P2.54mm_Vertical
+
+
+0
+4
+1
+sat1l
+PinSocket_1x05_P2.54mm_Vertical
+
+
+0
+5
+5
+sat1l
+Smd-to-bb-text
+
+
+0
+0
+0
+sat1l
+U_0805-0603
+
+
+0
+4
+2
+sat1l
 hearts
+
+
+0
+0
+0
+sat1l
+mousebite
 
 
 0
@@ -87640,9 +87696,30 @@ pj320-d
 4
 4
 sat1l
+rectangular-jumper
+
+
+0
+2
+2
+sat1l
+ruller
+
+
+0
+0
+0
+sat1l
 sat1l
 
 
 0
 0
 0
+sat1l
+u-(t)sot-23-3-5-6
+
+
+0
+6
+6
